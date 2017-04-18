@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bookshelf</title>
+    <link>https://rogerjaeck.github.io/bookshelf/post/</link>
+    <description>Recent content in Posts on Bookshelf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 12 Apr 2017 22:48:44 +0200</lastBuildDate>
+    
+	<atom:link href="https://rogerjaeck.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>good to great</title>
+      <link>https://rogerjaeck.github.io/bookshelf/post/good-to-great-1/</link>
+      <pubDate>Wed, 12 Apr 2017 22:48:44 +0200</pubDate>
+      
+      <guid>https://rogerjaeck.github.io/bookshelf/post/good-to-great-1/</guid>
+      <description>I read Good to Great in January 2106. An awesome read sharing detailed analysis on how good companies becam great.
+Test 1.</description>
+    </item>
+    
+    <item>
+      <title>good to great</title>
+      <link>https://rogerjaeck.github.io/bookshelf/post/good-to-great/</link>
+      <pubDate>Wed, 12 Apr 2017 22:48:44 +0200</pubDate>
+      
+      <guid>https://rogerjaeck.github.io/bookshelf/post/good-to-great/</guid>
+      <description>I read Good to Great in January 2106. An awesome read sharing detailed analysis on how good companies becam great.
+Test.</description>
+    </item>
+    
+  </channel>
+</rss>
