@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rogerjaeck.github.io/bookshelf/about/about/</loc>
+    <loc>https://rogerjaeck.github.io/bookshelf/about/</loc>
     <lastmod>2017-04-12T22:48:44+02:00</lastmod>
   </url>
   
@@ -14,12 +14,6 @@
   <url>
     <loc>https://rogerjaeck.github.io/bookshelf/post/good-to-great/</loc>
     <lastmod>2017-04-12T22:48:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogerjaeck.github.io/bookshelf/about/</loc>
-    <lastmod>2017-04-12T22:48:44+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
